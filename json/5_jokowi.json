@@ -1,0 +1,36 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "pengaturan_iklan": "0",
+      "inter_splash": "0",
+
+
+      "appid": "pub-4132761121202947",
+      "admobappid": "ca-app-pub-4132761121202947~7999820506",
+      "interid": "ca-app-pub-4132761121202947/3655049682",
+      "nativeid": "ca-app-pub-4132761121202947/9162527237",
+
+
+      "deskripsi_update": "keterangan promosi",
+      "link_update": "https://www.google.com/",
+      "version_app": "1",
+
+
+      "startappid": "",
+
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+
+
+      "hpk_admob1": "game",
+      "hpk_admob2": "game",
+      "hpk_admob3": "cars",
+      "hpk_admob4": "google",
+      "hpk_admob5": "google"
+      }
+   ]
+
+}
