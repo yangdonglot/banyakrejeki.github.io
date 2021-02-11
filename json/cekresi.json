@@ -1,0 +1,35 @@
+{
+
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "https://www.indoappdev.xyz/Loginresi/",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~5208661399",
+        "interid": "ca-app-pub-4132761121202947/5831144124",
+        "bannerid":"ca-app-pub-4132761121202947/8816400113",
+        "openid":"ca-app-pub-4132761121202947/1588964019",
+
+        "pengaturan_iklan":"1",
+
+
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner":"",
+
+        "interval":2,
+        "startappid":"123454689",
+
+
+        "hpk_admob1":"game",
+        "hpk_admob2":"game",
+        "hpk_admob3":"game",
+        "hpk_admob4":"game",
+        "hpk_admob5":"game"
+
+
+        }
+    ]
+}
