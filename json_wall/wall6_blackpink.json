@@ -1,0 +1,1635 @@
+{
+
+  "Iklan":
+  [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~1871109972",
+
+        "interid": "ca-app-pub-4",
+        "nativeid": "ca-app-pub-4",
+        "openads":"ca-app-pub-4",
+        "interval": "3",
+        "pengaturan_iklan":"10",
+
+        "fan_inter":"-",
+        "fan_banner_native":"-",
+
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+
+
+        }
+    ],
+
+      "Categories":
+
+      [
+
+        {
+          "id": 2,
+          "nama_cat": "Update",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Update/Update1.webp"
+
+        },
+        {
+          "id": 3,
+          "nama_cat": "Rose",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose1.webp"
+
+        },
+        {
+          "id": 4,
+          "nama_cat": "Jennie",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie1.webp"
+
+        },
+        {
+          "id": 5,
+          "nama_cat": "Jisoo",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo1.webp"
+
+        }
+        ,
+        {
+          "id": 6,
+          "nama_cat": "Lisa",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa1.webp"
+
+        }
+      ],
+
+      "Wallpaper":
+
+      [
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update39.webp"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update40.webp"
+        },
+
+
+
+        {
+          "id":41,
+          "id_wall":"041",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update41.webp"
+        },
+        {
+          "id":42,
+          "id_wall":"042",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update42.webp"
+        },
+        {
+          "id":43,
+          "id_wall":"043",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update43.webp"
+        },
+        {
+          "id":44,
+          "id_wall":"044",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update44.webp"
+        },
+        {
+          "id":45,
+          "id_wall":"045",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update45.webp"
+        },
+        {
+          "id":46,
+          "id_wall":"046",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update46.webp"
+        },
+        {
+          "id":47,
+          "id_wall":"047",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update47.webp"
+        },
+        {
+          "id":48,
+          "id_wall":"048",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update48.webp"
+        },
+        {
+          "id":49,
+          "id_wall":"049",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update49.webp"
+        },
+        {
+          "id":50,
+          "id_wall":"050",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update50.webp"
+        },
+
+
+
+        {
+          "id":51,
+          "id_wall":"051",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update51.webp"
+        },
+        {
+          "id":52,
+          "id_wall":"052",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update52.webp"
+        },
+        {
+          "id":53,
+          "id_wall":"053",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update53.webp"
+        },
+        {
+          "id":54,
+          "id_wall":"054",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update54.webp"
+        },
+        {
+          "id":55,
+          "id_wall":"055",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update55.webp"
+        },
+        {
+          "id":56,
+          "id_wall":"056",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update56.webp"
+        },
+        {
+          "id":57,
+          "id_wall":"057",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update57.webp"
+        },
+        {
+          "id":58,
+          "id_wall":"058",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update58.webp"
+        },
+        {
+          "id":59,
+          "id_wall":"059",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update59.webp"
+        },
+        {
+          "id":60,
+          "id_wall":"060",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update60.webp"
+        },
+
+
+
+
+        {
+          "id":61,
+          "id_wall":"061",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update61.webp"
+        },
+        {
+          "id":62,
+          "id_wall":"062",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update62.webp"
+        },
+        {
+          "id":63,
+          "id_wall":"063",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update63.webp"
+        },
+        {
+          "id":64,
+          "id_wall":"064",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update64.webp"
+        },
+        {
+          "id":65,
+          "id_wall":"065",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update65.webp"
+        },
+        {
+          "id":66,
+          "id_wall":"066",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update66.webp"
+        },
+        {
+          "id":67,
+          "id_wall":"067",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update67.webp"
+        },
+        {
+          "id":68,
+          "id_wall":"068",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update68.webp"
+        },
+        {
+          "id":69,
+          "id_wall":"069",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update69.webp"
+        },
+        {
+          "id":70,
+          "id_wall":"070",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update70.webp"
+        },
+
+
+
+
+        {
+          "id":71,
+          "id_wall":"071",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update71.webp"
+        },
+        {
+          "id":72,
+          "id_wall":"072",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update72.webp"
+        },
+        {
+          "id":73,
+          "id_wall":"073",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update73.webp"
+        },
+        {
+          "id":74,
+          "id_wall":"074",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update74.webp"
+        },
+        {
+          "id":75,
+          "id_wall":"075",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update75.webp"
+        },
+        {
+          "id":76,
+          "id_wall":"076",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update76.webp"
+        },
+        {
+          "id":77,
+          "id_wall":"077",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update77.webp"
+        },
+        {
+          "id":78,
+          "id_wall":"078",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update78.webp"
+        },
+        {
+          "id":79,
+          "id_wall":"079",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update79.webp"
+        },
+        {
+          "id":80,
+          "id_wall":"080",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update80.webp"
+        },
+
+
+
+
+        {
+          "id":81,
+          "id_wall":"081",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update81.webp"
+        },
+        {
+          "id":82,
+          "id_wall":"082",
+          "nama_cat": "Update",
+          "judul":"Update",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Update/Update82.webp"
+        },
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie6.jpg"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie39.webp"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "Jennie",
+          "judul":"Jennie",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie40.webp"
+        },
+
+
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Jisoo",
+          "judul":"Jisoo",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo30.webp"
+        },
+
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Lisa",
+          "judul":"Lisa",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa30.webp"
+        },
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Rose",
+          "judul":"Rose",
+          "image": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose30.webp"
+        }
+
+
+
+
+
+      ]
+}

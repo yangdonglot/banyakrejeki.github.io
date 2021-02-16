@@ -1,0 +1,753 @@
+{
+
+  "Iklan":
+  [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~1871109972",
+
+        "interid": "ca-app-pub-4132761121202947/2027663276",
+        "nativeid": "ca-app-pub-4132761121202947/9171015498",
+        "openads":"ca-app-pub-4132761121202947/9366456614",
+        "interval": "2",
+        "pengaturan_iklan":"1",
+
+        "fan_inter":"-",
+        "fan_banner_native":"-",
+
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+
+        }
+    ],
+
+      "Categories":
+
+      [
+
+        {
+          "id": 2,
+          "nama_cat": "iphone",
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX12.webp"
+
+        },
+        {
+          "id": 3,
+          "nama_cat": "Light",
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light52.webp"
+
+        },
+        {
+          "id": 4,
+          "nama_cat": "Most Used",
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used78.webp"
+
+        }
+      ],
+
+      "Wallpaper":
+
+      [
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX39.webp"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX40.webp"
+        },
+
+
+
+        {
+          "id":41,
+          "id_wall":"041",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX41.webp"
+        },
+        {
+          "id":42,
+          "id_wall":"042",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX42.webp"
+        },
+        {
+          "id":43,
+          "id_wall":"043",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX43.webp"
+        },
+        {
+          "id":44,
+          "id_wall":"044",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX44.webp"
+        },
+        {
+          "id":45,
+          "id_wall":"045",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX45.webp"
+        },
+        {
+          "id":46,
+          "id_wall":"046",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX46.webp"
+        },
+        {
+          "id":47,
+          "id_wall":"047",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX47.webp"
+        },
+        {
+          "id":48,
+          "id_wall":"048",
+          "nama_cat": "iphone",
+          "judul":"iphone 12 & iphone X",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX48.webp"
+        }
+        ,
+        {
+          "id":49,
+          "id_wall":"049",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light49.webp"
+        },
+        {
+          "id":50,
+          "id_wall":"050",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light50.webp"
+        },
+
+
+
+        {
+          "id":51,
+          "id_wall":"051",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light51.webp"
+        },
+        {
+          "id":52,
+          "id_wall":"052",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light52.webp"
+        },
+        {
+          "id":53,
+          "id_wall":"053",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light53.webp"
+        },
+        {
+          "id":54,
+          "id_wall":"054",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light54.webp"
+        },
+        {
+          "id":55,
+          "id_wall":"055",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light55.webp"
+        },
+        {
+          "id":56,
+          "id_wall":"056",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light56.webp"
+        },
+        {
+          "id":57,
+          "id_wall":"057",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light57.webp"
+        },
+        {
+          "id":58,
+          "id_wall":"058",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light58.webp"
+        },
+        {
+          "id":59,
+          "id_wall":"059",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light59.webp"
+        },
+        {
+          "id":60,
+          "id_wall":"060",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light60.webp"
+        },
+
+
+
+
+        {
+          "id":61,
+          "id_wall":"061",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light61.webp"
+        },
+        {
+          "id":62,
+          "id_wall":"062",
+          "nama_cat": "Light",
+          "judul":"Light",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light62.webp"
+        },
+        {
+          "id":63,
+          "id_wall":"063",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used63.webp"
+        },
+        {
+          "id":64,
+          "id_wall":"064",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used64.webp"
+        },
+        {
+          "id":65,
+          "id_wall":"065",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used65.webp"
+        },
+        {
+          "id":66,
+          "id_wall":"066",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used66.webp"
+        },
+        {
+          "id":67,
+          "id_wall":"067",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used67.webp"
+        },
+        {
+          "id":68,
+          "id_wall":"068",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used68.webp"
+        },
+        {
+          "id":69,
+          "id_wall":"069",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used69.webp"
+        },
+        {
+          "id":70,
+          "id_wall":"070",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used70.webp"
+        },
+
+
+
+
+        {
+          "id":71,
+          "id_wall":"071",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used71.webp"
+        },
+        {
+          "id":72,
+          "id_wall":"072",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used72.webp"
+        },
+        {
+          "id":73,
+          "id_wall":"073",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used73.webp"
+        },
+        {
+          "id":74,
+          "id_wall":"074",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used74.webp"
+        },
+        {
+          "id":75,
+          "id_wall":"075",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used75.webp"
+        },
+        {
+          "id":76,
+          "id_wall":"076",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used76.webp"
+        },
+        {
+          "id":77,
+          "id_wall":"077",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used77.webp"
+        },
+        {
+          "id":78,
+          "id_wall":"078",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used78.webp"
+        },
+        {
+          "id":79,
+          "id_wall":"079",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used79.webp"
+        },
+        {
+          "id":80,
+          "id_wall":"080",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used80.webp"
+        },
+
+
+
+
+        {
+          "id":81,
+          "id_wall":"081",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used81.webp"
+        },
+        {
+          "id":82,
+          "id_wall":"082",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used82.webp"
+        },
+        {
+          "id":83,
+          "id_wall":"083",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used83.webp"
+        },
+        {
+          "id":84,
+          "id_wall":"084",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used84.webp"
+        },
+        {
+          "id":85,
+          "id_wall":"085",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used85.webp"
+        },
+        {
+          "id":86,
+          "id_wall":"086",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used86.webp"
+        },
+        {
+          "id":87,
+          "id_wall":"087",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used87.webp"
+        },
+        {
+          "id":88,
+          "id_wall":"088",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used88.webp"
+        },
+        {
+          "id":89,
+          "id_wall":"089",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used89.webp"
+        },
+        {
+          "id":90,
+          "id_wall":"090",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used90.webp"
+        },
+
+
+
+        {
+          "id":91,
+          "id_wall":"091",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used91.webp"
+        },
+        {
+          "id":92,
+          "id_wall":"092",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used92.webp"
+        },
+        {
+          "id":93,
+          "id_wall":"093",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used93.webp"
+        },
+        {
+          "id":94,
+          "id_wall":"094",
+          "nama_cat": "Most Used",
+          "judul":"Most Used",
+          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used94.webp"
+        }
+
+
+
+
+      ]
+}

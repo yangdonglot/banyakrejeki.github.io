@@ -1,0 +1,1480 @@
+{
+
+  "Iklan":
+  [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~1871109972",
+
+        "interid": "ca-app-pub-4132761121202947/2027663276",
+        "nativeid": "ca-app-pub-4132761121202947/9171015498",
+        "openads":"ca-app-pub-4132761121202947/9366456614",
+        "interval": "3",
+        "pengaturan_iklan":"1",
+
+        "fan_inter":"-",
+        "fan_banner_native":"-",
+
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+
+
+        }
+    ],
+
+      "Categories":
+
+      [
+
+        {
+          "id": 2,
+          "nama_cat": "Among Us",
+          "gambar": "https://alimarufdev.github.io/gambar/among_us/image_049.webp"
+
+        }
+      ],
+
+      "Wallpaper":
+
+      [
+        {
+      "id":1,
+      "id_wall":"1",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 001",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_001.webp"
+    },
+    {
+      "id":2,
+      "id_wall":"2",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 002",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_002.webp"
+    },
+    {
+      "id":3,
+      "id_wall":"3",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 003",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_003.webp"
+    },
+    {
+      "id":4,
+      "id_wall":"4",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 004",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_004.webp"
+    },
+    {
+      "id":5,
+      "id_wall":"5",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 005",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_005.webp"
+    },
+    {
+      "id":6,
+      "id_wall":"6",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 006",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_006.webp"
+    },
+    {
+      "id":7,
+      "id_wall":"7",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 007",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_007.webp"
+    },
+    {
+      "id":8,
+      "id_wall":"8",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 008",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_008.webp"
+    },
+    {
+      "id":9,
+      "id_wall":"9",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 009",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_009.webp"
+    },
+    {
+      "id":10,
+      "id_wall":"10",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 010",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_010.webp"
+    },
+    {
+      "id":11,
+      "id_wall":"11",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 011",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_011.webp"
+    },
+    {
+      "id":12,
+      "id_wall":"12",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 012",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_012.webp"
+    },
+    {
+      "id":13,
+      "id_wall":"13",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 013",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_013.webp"
+    },
+    {
+      "id":14,
+      "id_wall":"14",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 014",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_014.webp"
+    },
+    {
+      "id":15,
+      "id_wall":"15",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 015",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_015.webp"
+    },
+    {
+      "id":16,
+      "id_wall":"16",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 016",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_016.webp"
+    },
+    {
+      "id":17,
+      "id_wall":"17",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 017",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_017.webp"
+    },
+    {
+      "id":18,
+      "id_wall":"18",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 018",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_018.webp"
+    },
+    {
+      "id":19,
+      "id_wall":"19",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 019",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_019.webp"
+    },
+    {
+      "id":20,
+      "id_wall":"20",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 020",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_020.webp"
+    },
+    {
+      "id":21,
+      "id_wall":"21",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 021",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_021.webp"
+    },
+    {
+      "id":22,
+      "id_wall":"22",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 022",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_022.webp"
+    },
+    {
+      "id":23,
+      "id_wall":"23",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 023",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_023.webp"
+    },
+    {
+      "id":24,
+      "id_wall":"24",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 024",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_024.webp"
+    },
+    {
+      "id":25,
+      "id_wall":"25",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 025",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_025.webp"
+    },
+    {
+      "id":26,
+      "id_wall":"26",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 026",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_026.webp"
+    },
+    {
+      "id":27,
+      "id_wall":"27",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 027",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_027.webp"
+    },
+    {
+      "id":28,
+      "id_wall":"28",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 028",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_028.webp"
+    },
+    {
+      "id":29,
+      "id_wall":"29",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 029",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_029.webp"
+    },
+    {
+      "id":30,
+      "id_wall":"30",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 030",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_030.webp"
+    },
+    {
+      "id":31,
+      "id_wall":"31",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 031",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_031.webp"
+    },
+    {
+      "id":32,
+      "id_wall":"32",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 032",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_032.webp"
+    },
+    {
+      "id":33,
+      "id_wall":"33",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 033",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_033.webp"
+    },
+    {
+      "id":34,
+      "id_wall":"34",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 034",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_034.webp"
+    },
+    {
+      "id":35,
+      "id_wall":"35",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 035",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_035.webp"
+    },
+    {
+      "id":36,
+      "id_wall":"36",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 036",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_036.webp"
+    },
+    {
+      "id":37,
+      "id_wall":"37",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 037",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_037.webp"
+    },
+    {
+      "id":38,
+      "id_wall":"38",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 038",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_038.webp"
+    },
+    {
+      "id":39,
+      "id_wall":"39",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 039",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_039.webp"
+    },
+    {
+      "id":40,
+      "id_wall":"40",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 040",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_040.webp"
+    },
+    {
+      "id":41,
+      "id_wall":"41",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 041",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_041.webp"
+    },
+    {
+      "id":42,
+      "id_wall":"42",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 042",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_042.webp"
+    },
+    {
+      "id":43,
+      "id_wall":"43",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 043",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_043.webp"
+    },
+    {
+      "id":44,
+      "id_wall":"44",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 044",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_044.webp"
+    },
+    {
+      "id":45,
+      "id_wall":"45",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 045",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_045.webp"
+    },
+    {
+      "id":46,
+      "id_wall":"46",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 046",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_046.webp"
+    },
+    {
+      "id":47,
+      "id_wall":"47",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 047",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_047.webp"
+    },
+    {
+      "id":48,
+      "id_wall":"48",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 048",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_048.webp"
+    },
+    {
+      "id":49,
+      "id_wall":"49",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 049",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_049.webp"
+    },
+    {
+      "id":50,
+      "id_wall":"50",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 050",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_050.webp"
+    },
+    {
+      "id":51,
+      "id_wall":"51",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 051",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_051.webp"
+    },
+    {
+      "id":52,
+      "id_wall":"52",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 052",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_052.webp"
+    },
+    {
+      "id":53,
+      "id_wall":"53",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 053",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_053.webp"
+    },
+    {
+      "id":54,
+      "id_wall":"54",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 054",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_054.webp"
+    },
+    {
+      "id":55,
+      "id_wall":"55",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 055",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_055.webp"
+    },
+    {
+      "id":56,
+      "id_wall":"56",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 056",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_056.webp"
+    },
+    {
+      "id":57,
+      "id_wall":"57",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 057",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_057.webp"
+    },
+    {
+      "id":58,
+      "id_wall":"58",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 058",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_058.webp"
+    },
+    {
+      "id":59,
+      "id_wall":"59",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 059",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_059.webp"
+    },
+    {
+      "id":60,
+      "id_wall":"60",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 060",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_060.webp"
+    },
+    {
+      "id":61,
+      "id_wall":"61",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 061",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_061.webp"
+    },
+    {
+      "id":62,
+      "id_wall":"62",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 062",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_062.webp"
+    },
+    {
+      "id":63,
+      "id_wall":"63",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 063",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_063.webp"
+    },
+    {
+      "id":64,
+      "id_wall":"64",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 064",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_064.webp"
+    },
+    {
+      "id":65,
+      "id_wall":"65",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 065",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_065.webp"
+    },
+    {
+      "id":66,
+      "id_wall":"66",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 066",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_066.webp"
+    },
+    {
+      "id":67,
+      "id_wall":"67",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 067",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_067.webp"
+    },
+    {
+      "id":68,
+      "id_wall":"68",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 068",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_068.webp"
+    },
+    {
+      "id":69,
+      "id_wall":"69",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 069",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_069.webp"
+    },
+    {
+      "id":70,
+      "id_wall":"70",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 070",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_070.webp"
+    },
+    {
+      "id":71,
+      "id_wall":"71",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 071",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_071.webp"
+    },
+    {
+      "id":72,
+      "id_wall":"72",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 072",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_072.webp"
+    },
+    {
+      "id":73,
+      "id_wall":"73",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 073",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_073.webp"
+    },
+    {
+      "id":74,
+      "id_wall":"74",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 074",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_074.webp"
+    },
+    {
+      "id":75,
+      "id_wall":"75",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 075",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_075.webp"
+    },
+    {
+      "id":76,
+      "id_wall":"76",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 076",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_076.webp"
+    },
+    {
+      "id":77,
+      "id_wall":"77",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 077",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_077.webp"
+    },
+    {
+      "id":78,
+      "id_wall":"78",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 078",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_078.webp"
+    },
+    {
+      "id":79,
+      "id_wall":"79",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 079",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_079.webp"
+    },
+    {
+      "id":80,
+      "id_wall":"80",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 080",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_080.webp"
+    },
+    {
+      "id":81,
+      "id_wall":"81",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 081",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_081.webp"
+    },
+    {
+      "id":82,
+      "id_wall":"82",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 082",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_082.webp"
+    },
+    {
+      "id":83,
+      "id_wall":"83",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 083",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_083.webp"
+    },
+    {
+      "id":84,
+      "id_wall":"84",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 084",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_084.webp"
+    },
+    {
+      "id":85,
+      "id_wall":"85",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 085",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_085.webp"
+    },
+    {
+      "id":86,
+      "id_wall":"86",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 086",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_086.webp"
+    },
+    {
+      "id":87,
+      "id_wall":"87",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 087",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_087.webp"
+    },
+    {
+      "id":88,
+      "id_wall":"88",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 088",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_088.webp"
+    },
+    {
+      "id":89,
+      "id_wall":"89",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 089",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_089.webp"
+    },
+    {
+      "id":90,
+      "id_wall":"90",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 090",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_090.webp"
+    },
+    {
+      "id":91,
+      "id_wall":"91",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 091",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_091.webp"
+    },
+    {
+      "id":92,
+      "id_wall":"92",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 092",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_092.webp"
+    },
+    {
+      "id":93,
+      "id_wall":"93",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 093",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_093.webp"
+    },
+    {
+      "id":94,
+      "id_wall":"94",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 094",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_094.webp"
+    },
+    {
+      "id":95,
+      "id_wall":"95",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 095",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_095.webp"
+    },
+    {
+      "id":96,
+      "id_wall":"96",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 096",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_096.webp"
+    },
+    {
+      "id":97,
+      "id_wall":"97",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 097",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_097.webp"
+    },
+    {
+      "id":98,
+      "id_wall":"98",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 098",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_098.webp"
+    },
+    {
+      "id":99,
+      "id_wall":"99",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 099",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_099.webp"
+    },
+    {
+      "id":100,
+      "id_wall":"100",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 100",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_100.webp"
+    },
+    {
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 101",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_101.webp"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 102",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_102.webp"
+    },
+    {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 103",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_103.webp"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 104",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_104.webp"
+    },
+    {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 105",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_105.webp"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 106",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_106.webp"
+    },
+    {
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 107",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_107.webp"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 108",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_108.webp"
+    },
+    {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 109",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_109.webp"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 110",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_110.webp"
+    },
+    {
+      "id":111,
+      "id_wall":"111",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 111",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_111.webp"
+    },
+    {
+      "id":112,
+      "id_wall":"112",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 112",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_112.webp"
+    },
+    {
+      "id":113,
+      "id_wall":"113",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 113",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_113.webp"
+    },
+    {
+      "id":114,
+      "id_wall":"114",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 114",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_114.webp"
+    },
+    {
+      "id":115,
+      "id_wall":"115",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 115",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_115.webp"
+    },
+    {
+      "id":116,
+      "id_wall":"116",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 116",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_116.webp"
+    },
+    {
+      "id":117,
+      "id_wall":"117",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 117",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_117.webp"
+    },
+    {
+      "id":118,
+      "id_wall":"118",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 118",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_118.webp"
+    },
+    {
+      "id":119,
+      "id_wall":"119",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 119",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_119.webp"
+    },
+    {
+      "id":120,
+      "id_wall":"120",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 120",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_120.webp"
+    },
+    {
+      "id":121,
+      "id_wall":"121",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 121",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_121.webp"
+    },
+    {
+      "id":122,
+      "id_wall":"122",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 122",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_122.webp"
+    },
+    {
+      "id":123,
+      "id_wall":"123",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 123",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_123.webp"
+    },
+    {
+      "id":124,
+      "id_wall":"124",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 124",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_124.webp"
+    },
+    {
+      "id":125,
+      "id_wall":"125",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 125",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_125.webp"
+    },
+    {
+      "id":126,
+      "id_wall":"126",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 126",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_126.webp"
+    },
+    {
+      "id":127,
+      "id_wall":"127",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 127",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_127.webp"
+    },
+    {
+      "id":128,
+      "id_wall":"128",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 128",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_128.webp"
+    },
+    {
+      "id":129,
+      "id_wall":"129",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 129",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_129.webp"
+    },
+    {
+      "id":130,
+      "id_wall":"130",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 130",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_130.webp"
+    },
+    {
+      "id":131,
+      "id_wall":"131",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 131",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_131.webp"
+    },
+    {
+      "id":132,
+      "id_wall":"132",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 132",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_132.webp"
+    },
+    {
+      "id":133,
+      "id_wall":"133",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 133",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_133.webp"
+    },
+    {
+      "id":134,
+      "id_wall":"134",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 134",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_134.webp"
+    },
+    {
+      "id":135,
+      "id_wall":"135",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 135",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_135.webp"
+    },
+    {
+      "id":136,
+      "id_wall":"136",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 136",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_136.webp"
+    },
+    {
+      "id":137,
+      "id_wall":"137",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 137",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_137.webp"
+    },
+    {
+      "id":138,
+      "id_wall":"138",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 138",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_138.webp"
+    },
+    {
+      "id":139,
+      "id_wall":"139",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 139",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_139.webp"
+    },
+    {
+      "id":140,
+      "id_wall":"140",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 140",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_140.webp"
+    },
+    {
+      "id":141,
+      "id_wall":"141",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 141",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_141.webp"
+    },
+    {
+      "id":142,
+      "id_wall":"142",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 142",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_142.webp"
+    },
+    {
+      "id":143,
+      "id_wall":"143",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 143",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_143.webp"
+    },
+    {
+      "id":144,
+      "id_wall":"144",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 144",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_144.webp"
+    },
+    {
+      "id":145,
+      "id_wall":"145",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 145",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_145.webp"
+    },
+    {
+      "id":146,
+      "id_wall":"146",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 146",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_146.webp"
+    },
+    {
+      "id":147,
+      "id_wall":"147",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 147",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_147.webp"
+    },
+    {
+      "id":148,
+      "id_wall":"148",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 148",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_148.webp"
+    },
+    {
+      "id":149,
+      "id_wall":"149",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 149",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_149.webp"
+    },
+    {
+      "id":150,
+      "id_wall":"150",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 150",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_150.webp"
+    },
+    {
+      "id":151,
+      "id_wall":"151",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 151",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_151.webp"
+    },
+    {
+      "id":152,
+      "id_wall":"152",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 152",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_152.webp"
+    },
+    {
+      "id":153,
+      "id_wall":"153",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 153",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_153.webp"
+    },
+    {
+      "id":154,
+      "id_wall":"154",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 154",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_154.webp"
+    },
+    {
+      "id":155,
+      "id_wall":"155",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 155",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_155.webp"
+    },
+    {
+      "id":156,
+      "id_wall":"156",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 156",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_156.webp"
+    },
+    {
+      "id":157,
+      "id_wall":"157",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 157",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_157.webp"
+    },
+    {
+      "id":158,
+      "id_wall":"158",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 158",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_158.webp"
+    },
+    {
+      "id":159,
+      "id_wall":"159",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 159",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_159.webp"
+    },
+    {
+      "id":160,
+      "id_wall":"160",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 160",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_160.webp"
+    },
+    {
+      "id":161,
+      "id_wall":"161",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 161",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_161.webp"
+    },
+    {
+      "id":162,
+      "id_wall":"162",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 162",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_162.webp"
+    },
+    {
+      "id":163,
+      "id_wall":"163",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 163",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_163.webp"
+    },
+    {
+      "id":164,
+      "id_wall":"164",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 164",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_164.webp"
+    },
+    {
+      "id":165,
+      "id_wall":"165",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 165",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_165.webp"
+    },
+    {
+      "id":166,
+      "id_wall":"166",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 166",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_166.webp"
+    },
+    {
+      "id":167,
+      "id_wall":"167",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 167",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_167.webp"
+    },
+    {
+      "id":168,
+      "id_wall":"168",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 168",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_168.webp"
+    },
+    {
+      "id":169,
+      "id_wall":"169",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 169",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_169.webp"
+    },
+    {
+      "id":170,
+      "id_wall":"170",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 170",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_170.webp"
+    },
+    {
+      "id":171,
+      "id_wall":"171",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 171",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_171.webp"
+    },
+    {
+      "id":172,
+      "id_wall":"172",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 172",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_172.webp"
+    },
+    {
+      "id":173,
+      "id_wall":"173",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 173",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_173.webp"
+    },
+    {
+      "id":174,
+      "id_wall":"174",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 174",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_174.webp"
+    },
+    {
+      "id":175,
+      "id_wall":"175",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 175",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_175.webp"
+    },
+    {
+      "id":176,
+      "id_wall":"176",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 176",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_176.webp"
+    },
+    {
+      "id":177,
+      "id_wall":"177",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 177",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_177.webp"
+    },
+    {
+      "id":178,
+      "id_wall":"178",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 178",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_178.webp"
+    },
+    {
+      "id":179,
+      "id_wall":"179",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 179",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_179.webp"
+    },
+    {
+      "id":180,
+      "id_wall":"180",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 180",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_180.webp"
+    },
+    {
+      "id":181,
+      "id_wall":"181",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 181",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_181.webp"
+    },
+    {
+      "id":182,
+      "id_wall":"182",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 182",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_182.webp"
+    },
+    {
+      "id":183,
+      "id_wall":"183",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 183",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_183.webp"
+    },
+    {
+      "id":184,
+      "id_wall":"184",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 184",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_184.webp"
+    },
+    {
+      "id":185,
+      "id_wall":"185",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 185",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_185.webp"
+    },
+    {
+      "id":186,
+      "id_wall":"186",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 186",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_186.webp"
+    },
+    {
+      "id":187,
+      "id_wall":"187",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 187",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_187.webp"
+    },
+    {
+      "id":188,
+      "id_wall":"188",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 188",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_188.webp"
+    },
+    {
+      "id":189,
+      "id_wall":"189",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 189",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_189.webp"
+    },
+    {
+      "id":190,
+      "id_wall":"190",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 190",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_190.webp"
+    },
+    {
+      "id":191,
+      "id_wall":"191",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 191",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_191.webp"
+    },
+    {
+      "id":192,
+      "id_wall":"192",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 192",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_192.webp"
+    },
+    {
+      "id":193,
+      "id_wall":"193",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 193",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_193.webp"
+    },
+    {
+      "id":194,
+      "id_wall":"194",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 194",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_194.webp"
+    },
+    {
+      "id":195,
+      "id_wall":"195",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 195",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_195.webp"
+    },
+    {
+      "id":196,
+      "id_wall":"196",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 196",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_196.webp"
+    },
+    {
+      "id":197,
+      "id_wall":"197",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 197",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_197.webp"
+    },
+    {
+      "id":198,
+      "id_wall":"198",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 198",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_198.webp"
+    },
+    {
+      "id":199,
+      "id_wall":"199",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 199",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_199.webp"
+    },
+    {
+      "id":200,
+      "id_wall":"200",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 200",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_200.webp"
+    },
+    {
+      "id":201,
+      "id_wall":"201",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 201",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_201.webp"
+    },
+    {
+      "id":202,
+      "id_wall":"202",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 202",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_202.webp"
+    },
+    {
+      "id":203,
+      "id_wall":"203",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 203",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_203.webp"
+    },
+    {
+      "id":204,
+      "id_wall":"204",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 204",
+      "image":"https://alimarufdev.github.io/gambar/among_us/image_204.webp"
+    }
+
+
+
+
+      ]
+}

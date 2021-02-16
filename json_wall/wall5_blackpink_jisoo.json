@@ -1,0 +1,1483 @@
+{
+
+  "Iklan":
+  [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~1871109972",
+
+        "interid": "ca-app-pub-4",
+        "nativeid": "ca-app-pub-4",
+        "openads":"ca-app-pub-4",
+        "interval": "3",
+        "pengaturan_iklan":"10",
+
+        "fan_inter":"-",
+        "fan_banner_native":"-",
+
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+
+
+        }
+    ],
+
+      "Categories":
+
+      [
+
+        {
+          "id": 2,
+          "nama_cat": "Concert",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert3.webp"
+
+        },
+        {
+          "id": 3,
+          "nama_cat": "Cute",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute3.webp"
+
+        },
+        {
+          "id": 4,
+          "nama_cat": "Modeling",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling10.webp"
+
+        },
+        {
+          "id": 5,
+          "nama_cat": "Smile",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile3.webp"
+
+        }
+      ],
+
+      "Wallpaper":
+
+      [
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Concert",
+          "judul":"Concert",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Concert/Concert37.webp"
+        },
+
+
+
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Cute",
+          "judul":"Cute",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Cute/Cute38.webp"
+        },
+
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile39.webp"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile40.webp"
+        },
+
+
+
+        {
+          "id":41,
+          "id_wall":"041",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile41.webp"
+        },
+
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Smile",
+          "judul":"Smile",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile35.webp"
+        },
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling39.webp"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling40.webp"
+        },
+
+
+
+        {
+          "id":41,
+          "id_wall":"041",
+          "nama_cat": "Modeling",
+          "judul":"Modeling",
+          "image": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling41.webp"
+        }
+
+      ]
+}

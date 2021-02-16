@@ -1,0 +1,1224 @@
+{
+
+  "Iklan":
+  [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+
+        "appid": "pub-4132761121202947",
+        "admobappid": "ca-app-pub-4132761121202947~1871109972",
+
+        "interid": "ca-app-pub-4",
+        "nativeid": "ca-app-pub-4",
+        "openads":"ca-app-pub-4",
+        "interval": "2",
+        "pengaturan_iklan":"10",
+
+        "fan_inter":"-",
+        "fan_banner_native":"-",
+
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+
+
+        }
+    ],
+
+      "Categories":
+
+      [
+
+        {
+          "id": 2,
+          "nama_cat": "Free",
+          "gambar": "https://alimarufdev.github.io/gambar/free_fire/1/ff3.webp"
+
+        },
+        {
+          "id": 3,
+          "nama_cat": "Art Design",
+          "gambar": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design3.webp"
+
+        },
+        {
+          "id": 4,
+          "nama_cat": "Best Epic",
+          "gambar": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic3.webp"
+
+        },
+        {
+          "id": 5,
+          "nama_cat": "Combat",
+          "gambar": "https://alimarufdev.github.io/gambar/free_fire/combat/combat3.webp"
+
+        },
+        {
+          "id": 6,
+          "nama_cat": "Elite",
+          "gambar": "https://alimarufdev.github.io/gambar/free_fire/elite/elite3.webp"
+
+        }
+      ],
+
+      "Wallpaper":
+
+      [
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff2.jpg"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff4.jpg"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff15.jpg"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Free",
+          "judul":"Free",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/1/ff34.webp"
+        },
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design16.jpg"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design27.jpg"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design36.webp"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design37.webp"
+        },
+        {
+          "id":38,
+          "id_wall":"038",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design38.webp"
+        },
+        {
+          "id":39,
+          "id_wall":"039",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design39.jpg"
+        },
+        {
+          "id":40,
+          "id_wall":"040",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design40.webp"
+        },
+
+
+
+        {
+          "id":41,
+          "id_wall":"041",
+          "nama_cat": "Art Design",
+          "judul":"Art Design",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/art_design/art_design41.webp"
+        },
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Best Epic",
+          "judul":"Best Epic",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/best_epic/best_epic26.webp"
+        },
+
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Combat",
+          "judul":"Combat",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/combat/combat19.webp"
+        },
+
+
+        {
+          "id":1,
+          "id_wall":"001",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite1.webp"
+        },
+        {
+          "id":2,
+          "id_wall":"002",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite2.webp"
+        },
+        {
+          "id":3,
+          "id_wall":"003",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite3.webp"
+        },
+        {
+          "id":4,
+          "id_wall":"004",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite4.webp"
+        },
+        {
+          "id":5,
+          "id_wall":"005",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite5.webp"
+        },
+        {
+          "id":6,
+          "id_wall":"006",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite6.webp"
+        },
+        {
+          "id":7,
+          "id_wall":"007",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite7.webp"
+        },
+        {
+          "id":8,
+          "id_wall":"008",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite8.webp"
+        },
+        {
+          "id":9,
+          "id_wall":"009",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite9.webp"
+        },
+        {
+          "id":10,
+          "id_wall":"010",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite10.webp"
+        },
+
+
+
+        {
+          "id":11,
+          "id_wall":"011",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite11.webp"
+        },
+        {
+          "id":12,
+          "id_wall":"012",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite12.webp"
+        },
+        {
+          "id":13,
+          "id_wall":"013",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite13.webp"
+        },
+        {
+          "id":14,
+          "id_wall":"014",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite14.webp"
+        },
+        {
+          "id":15,
+          "id_wall":"015",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite15.webp"
+        },
+        {
+          "id":16,
+          "id_wall":"016",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite16.webp"
+        },
+        {
+          "id":17,
+          "id_wall":"017",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite17.webp"
+        },
+        {
+          "id":18,
+          "id_wall":"018",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite18.webp"
+        },
+
+        {
+          "id":19,
+          "id_wall":"019",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite19.webp"
+        },
+        {
+          "id":20,
+          "id_wall":"020",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite20.webp"
+        },
+
+
+
+        {
+          "id":21,
+          "id_wall":"021",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite21.webp"
+        },
+        {
+          "id":22,
+          "id_wall":"022",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite22.webp"
+        },
+        {
+          "id":23,
+          "id_wall":"023",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite23.webp"
+        },
+        {
+          "id":24,
+          "id_wall":"024",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite24.webp"
+        },
+        {
+          "id":25,
+          "id_wall":"025",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite25.webp"
+        },
+        {
+          "id":26,
+          "id_wall":"026",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite26.webp"
+        },
+        {
+          "id":27,
+          "id_wall":"027",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite27.webp"
+        },
+        {
+          "id":28,
+          "id_wall":"028",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite28.webp"
+        },
+        {
+          "id":29,
+          "id_wall":"029",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite29.webp"
+        },
+        {
+          "id":30,
+          "id_wall":"030",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite30.webp"
+        },
+
+
+
+        {
+          "id":31,
+          "id_wall":"031",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite31.webp"
+        },
+        {
+          "id":32,
+          "id_wall":"032",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite32.webp"
+        },
+        {
+          "id":33,
+          "id_wall":"033",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite33.webp"
+        },
+        {
+          "id":34,
+          "id_wall":"034",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite34.webp"
+        },
+        {
+          "id":35,
+          "id_wall":"035",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite35.webp"
+        },
+        {
+          "id":36,
+          "id_wall":"036",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite36.jpg"
+        },
+        {
+          "id":37,
+          "id_wall":"037",
+          "nama_cat": "Elite",
+          "judul":"Elite",
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite37.webp"
+        }
+
+      ]
+}
