@@ -11,7 +11,7 @@
       "admob_interid3": "ca-app-pub-4132761121202947/3603055084",
       "admob_bannerid": "ca-app-pub-4132761121202947/1455689302",
       "admob_openid": "ca-app-pub-4132761121202947/5011790936",
-      "interval_intertitial": "5",
+      "interval_intertitial": "50",
       "startappid": "201669628",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
