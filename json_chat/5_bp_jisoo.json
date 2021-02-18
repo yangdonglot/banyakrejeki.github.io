@@ -11,13 +11,13 @@
       "admob_interid3": "ca-app-pub-4132761121202947/3603055084",
       "admob_bannerid": "ca-app-pub-4132761121202947/1455689302",
       "admob_openid": "ca-app-pub-4132761121202947/5011790936",
-      "interval_intertitial": "50",
+      "interval_intertitial": "5",
       "startappid": "201669628",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
       "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
       "mopub_inter": "24534e1901884e398f1253216226017e",
-      "packagename": "com.chatnfakecall.blackpink_rose_wallpaper_chat_fakecall"
+      "packagename": "com.chatnfakecall.blackpink_jisoo_wallpaper_fake_chat_fakecall"
     }
   ],
 
